@@ -1,0 +1,14 @@
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\PiCrossTests.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\PiCrossTests.pdb
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\Cells.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\DataStructures.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\PiCrossDomain.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\Cells.pdb
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\DataStructures.pdb
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\bin\Debug\PiCrossDomain.pdb
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\obj\Debug\PiCrossTests.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Tests\obj\Debug\PiCrossTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Cells\bin\Debug\Cells.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Cells\bin\Debug\Cells.pdb
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Cells\obj\Debug\Cells.csprojAssemblyReference.cache
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Cells\obj\Debug\Cells.csproj.CoreCompileInputs.cache
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Cells\obj\Debug\Cells.dll
+C:\Users\arneb\Desktop\picross\picross-1819-arnebauters\PiCross\Cells\obj\Debug\Cells.pdb
